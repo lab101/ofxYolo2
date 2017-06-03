@@ -6,4 +6,5 @@ Download the yolo-voc.weights (http://pjreddie.com/media/files/yolo-voc.weights)
 Also copy the yolo_cpp_dll.dll from the dll to your bin folder (will make a build rule for that in the future)
 Not sure if you need cuda installed as well to run the demo.
 
+Currently works only in X64 releasemode
 
